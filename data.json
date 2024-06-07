@@ -1,0 +1,15 @@
+[
+    {"type": "commit", "timestamp": "2024-06-01T10:00:00Z"},
+    {"type": "pull_request_opened", "timestamp": "2024-06-01T11:00:00Z"},
+    {"type": "merge_pull_request", "timestamp": "2024-06-01T12:00:00Z"},
+    {"type": "meeting", "timestamp": "2024-06-01T13:00:00Z"},
+    {"type": "documentation", "timestamp": "2024-06-01T14:00:00Z"}
+  ]      
+
+
+
+
+
+
+  
+  
