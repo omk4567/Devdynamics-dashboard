@@ -35,4 +35,23 @@
   to {
     transform: rotate(360deg);
   }
+} 
+
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
 }
+
+h1 {
+  color: #333;
+}
+
+label {
+  margin-right: 10px;
+}
+
+select {
+  margin-bottom: 20px;
+}
+
